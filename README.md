@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   <h1>
     Hi! I'm Sakura.
-    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30px"/>
   </h1>
 </div>
 
