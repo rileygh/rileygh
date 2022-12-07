@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   <h1>
-    Hi! I'm Sakura.
+    Hi! I'm Jade.
   </h1>
 </div>
 
