@@ -7,13 +7,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### :cherry_blossom: About me:
+### About me:
 
 - 🖥️ Currently studying computer science in further education.
 - ⚡ I like to program in a variety of languages, usually Python.
