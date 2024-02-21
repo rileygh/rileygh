@@ -13,7 +13,7 @@
 - ⚡ I like to program in a variety of languages, usually Python.
 - 🛠️ I specialise in Artificial Intelligence (AI) and data science.
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=500320519455899658)
+<a href="https://app.daily.dev/rileysh"><img src="https://api.daily.dev/devcards/v2/VyDAtTEYtYPBREHLh1Dkv.png?type=default&r=0do" width="356" alt="Riley's Dev Card"/></a>
 
 ---
 
