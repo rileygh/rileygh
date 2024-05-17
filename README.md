@@ -10,8 +10,8 @@
 ### About me:
 
 - 🖥️ Currently studying computer science in further education.
-- ⚡ I like to program in a variety of languages, usually Python.
-- 🛠️ I specialise in Artificial Intelligence (AI) and data science.
+- ⚡ I like to program in a variety of languages, usually Python or C++.
+- 🛠️ I'm learning to specialise in graphics/rendering.
 
 <a href="https://app.daily.dev/rileysh"><img src="https://api.daily.dev/devcards/v2/VyDAtTEYtYPBREHLh1Dkv.png?type=default&r=0do" width="356" alt="Riley's Dev Card"/></a>
 
