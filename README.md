@@ -9,9 +9,9 @@
 
 ### About me:
 
-- 🖥️ Currently studying computer science in further education.
+- 🖥️ Studied computer science at A-level, now at UKC for economics!
 - ⚡ I like to program in a variety of languages, usually Python or C++.
-- 🛠️ I'm learning to specialise in graphics/rendering.
+- 🛠️ I'm learning to specialise in data analysis with an application to economics.
 
 <a href="https://app.daily.dev/rileysh"><img src="https://api.daily.dev/devcards/v2/VyDAtTEYtYPBREHLh1Dkv.png?type=default&r=0do" width="356" alt="Riley's Dev Card"/></a>
 
